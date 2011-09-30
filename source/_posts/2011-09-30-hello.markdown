@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Hello, World!"
+date: 2011-09-30 19:32
+comments: true
+categories: 
+author: st44100
+categories:
+---
+
+
+Hello
+=====
+
+World
+-----
+
+* Yeah
+* It's
+* Markdown
+
+1. rake new_post["title"]
+2. source/_post
+3. title
+
