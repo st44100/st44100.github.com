@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Bang Bang Bang Bang Bang</title>
+  <link href="http://st44100.github.com/atom.xml" rel="self"/>
+  <link href="http://st44100.github.com/"/>
+  <updated>2011-10-01T20:23:53+09:00</updated>
+  <id>http://st44100.github.com/</id>
+  <author>
+    <name>st44100</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>Test</title>
+    <link href="http://st44100.github.com/blog/2011/09/30/test/"/>
+    <updated>2011-09-30T19:44:00+09:00</updated>
+    <id>http://st44100.github.com/blog/2011/09/30/test</id>
+    <content type="html">&lt;h1&gt;testing&lt;/h1&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Hello, World!</title>
+    <link href="http://st44100.github.com/blog/2011/09/30/hello/"/>
+    <updated>2011-09-30T19:32:00+09:00</updated>
+    <id>http://st44100.github.com/blog/2011/09/30/hello</id>
+    <content type="html">&lt;h1&gt;Hello&lt;/h1&gt;
+
+&lt;h2&gt;World&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Yeah&lt;/li&gt;
+&lt;li&gt;It&amp;#8217;s&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Markdown&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;rake new_post[&amp;#8220;title&amp;#8221;]&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;source/_post&lt;/li&gt;
+&lt;li&gt;title&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
+  
+</feed>
