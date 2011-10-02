@@ -6,9 +6,13 @@ comments: true
 categories: 
 ---
 
-TEST
+TEST Code Snippeting
 =====
 
+{% img /images/post/lenaMOSAIC.jpg  %}
+{% img /images/post/lenaMOSAIC.jpg  50 50 %}
+
+{% gist 1177764 %}
 
 
 {% codeblock %}
