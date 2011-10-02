@@ -4,13 +4,24 @@
   <title>4Bang Bang Bang Bang Bang</title>
   <link href="http://st44100.github.com/atom.xml" rel="self"/>
   <link href="http://st44100.github.com/"/>
-  <updated>2011-10-01T20:57:17+09:00</updated>
+  <updated>2011-10-02T11:41:30+09:00</updated>
   <id>http://st44100.github.com/</id>
   <author>
     <name>st44100</name>
     
   </author>
 
+  
+  <entry>
+    <title>Say Hello to Octopress</title>
+    <link href="http://st44100.github.com/blog/2011/10/02/say-hello-to-octopress/"/>
+    <updated>2011-10-02T11:39:00+09:00</updated>
+    <id>http://st44100.github.com/blog/2011/10/02/say-hello-to-octopress</id>
+    <content type="html">&lt;p&gt;Say Hellow To OCTOPRESS&lt;/p&gt;
+
+&lt;p&gt;Finally, I made it.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Test</title>
