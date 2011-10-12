@@ -4,7 +4,7 @@
   <title>Bang</title>
   <link href="http://st44100.github.com/atom.xml" rel="self"/>
   <link href="http://st44100.github.com/"/>
-  <updated>2011-10-12T19:25:40+09:00</updated>
+  <updated>2011-10-12T19:28:50+09:00</updated>
   <id>http://st44100.github.com/</id>
   <author>
     <name>st44100</name>
@@ -20,9 +20,9 @@
     <content type="html">&lt;p&gt;PhoneGap 1.0 + iOS simulator 4.2 のとき,PhoneGap.plistを多言語に対応させると&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;PhoneGapで多言語対応してplistが複数で来てる糸き&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;PhoneGapで多言語対応してplistが複数できているとき&lt;/p&gt;
 
-&lt;p&gt; &lt;img src=&quot;http://cl.ly/1H2X0y1E3i2T1x1j1H1i&quot; title=&quot;&#8217;plistの多言語化&#8217;&quot; &gt;&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt; &lt;img src=&quot;http://f.cl.ly/items/1f3U342D3A3v1C161426/picture%EF%BC%882011-10-12%2019.15.31%EF%BC%89.png&quot; title=&quot;&#8217;plistの多言語化&#8217;&quot; &gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;iOS Simulator 4.2でエラー&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
