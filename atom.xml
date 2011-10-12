@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Trigger Bang Bang</title>
+  <title>Bang</title>
   <link href="http://st44100.github.com/atom.xml" rel="self"/>
   <link href="http://st44100.github.com/"/>
-  <updated>2011-10-02T12:47:42+09:00</updated>
+  <updated>2011-10-03T01:30:56+09:00</updated>
   <id>http://st44100.github.com/</id>
   <author>
     <name>st44100</name>
@@ -17,7 +17,17 @@
     <link href="http://st44100.github.com/blog/2011/10/02/code-snippet/"/>
     <updated>2011-10-02T12:32:00+09:00</updated>
     <id>http://st44100.github.com/blog/2011/10/02/code-snippet</id>
-    <content type="html">&lt;h1&gt;TEST&lt;/h1&gt;
+    <content type="html">&lt;h1&gt;TEST Code Snippeting&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://st44100.github.com/images/post/lenaMOSAIC.jpg&quot; title=&quot;&quot; &gt;
+&lt;img src=&quot;http://st44100.github.com/images/post/lenaMOSAIC.jpg&quot; width=&quot;50&quot; height=&quot;50&quot;&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;script src=&#8217;https://gist.github.com/1177764.js?file=&#8217;&gt;&lt;/script&gt;
+&lt;noscript&gt;&lt;pre&gt;&lt;code&gt;find ./ -type d -name &#8216;.svn&#8217; | xargs rm -rvf
+&lt;/code&gt;&lt;/pre&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+
+
 
 &lt;figure class=&#8217;code&#8217;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre class=&quot;line-numbers&quot;&gt;&lt;span class=&#8217;line-number&#8217;&gt;1&lt;/span&gt;
 &lt;span class=&#8217;line-number&#8217;&gt;2&lt;/span&gt;
